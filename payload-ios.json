@@ -1,0 +1,4 @@
+{
+"default":"お知らせ",
+"APNS_SANDBOX":"{\"aps\":{\"alert\":{\"title\":\"This is Title\",\"subtitle\":\"\",\"body\":\"This is Body\"},\"badge\":1,\"mutable-content\":1}}"
+}

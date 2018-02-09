@@ -1,0 +1,5 @@
+{
+"default":"お知らせ",
+"GCM":"{\"data\":{\"alert\":\"This is Body\",\"badge\":1,\"content-available\":1}}"
+}
+
